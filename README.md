@@ -1,3 +1,5 @@
+![logo](https://github.com/ritikkumar8z/ritikkumar8z/GitHub_Banner.gif)
+
 <h1 align="center">Hi 👋, I'm RiTiK</h1>
 <h3 align="center">A passionate Web developer</h3>
 
