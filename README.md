@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritikkumar8z.web.app//](https://ritikkumar8z.web.app//)
 
-- 📫 How to reach me **iamritikkumar89@gmail.com**
+- 📫 How to reach me **ritikkumar8z.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
