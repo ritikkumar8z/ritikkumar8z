@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikkumar8z" target="blank"><img src="https://img.shields.io/twitter/follow/ritikkumar8z?logo=twitter&style=for-the-badge" alt="ritikkumar8z" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://silver-tanuki-f29536.netlify.app/](https://silver-tanuki-f29536.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ritikkumar8z.web.app//](https://ritikkumar8z.web.app//)
 
 - 📫 How to reach me **iamritikkumar89@gmail.com**
 
