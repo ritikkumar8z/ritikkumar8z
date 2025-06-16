@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **ritikkumar8z.dev@gmail.com**
 
-- 🚀 Looking to build something amazing? Visit my freelance site nextcoreai.in and let’s bring your ideas to life!
+- 🚀 Looking to build something amazing? Visit my freelance site [nextcoreai.in](https://nextcoreai.in) and let’s bring your ideas to life!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
