@@ -38,7 +38,7 @@
   <a href="mailto:ritikkumarparsa45@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://wa.me/6200674631" target="_blank">
+  <a href="https://wa.me/916200674631" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="https://ritikkumar8z.web.app" target="_blank">
