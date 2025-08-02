@@ -33,8 +33,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar8z&" alt="ritikkumar8z" /></p>
 
+
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar8z&theme=react-dark&area=true&hide_border=true" width="98%"/>
+</p>
+
+
+
 ## 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rksingh1713/rksingh1713/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/ritikkumar8z/ritikkumar8z/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
 </p>
+
+<p align="center">
+  <sub>✨ This snake animation updates automatically every 12 hours to reflect my latest GitHub activity ✨</sub>
+</p>
+
 
