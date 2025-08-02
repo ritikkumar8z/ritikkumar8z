@@ -32,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikkumar8z&show_icons=true&locale=en" alt="ritikkumar8z" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar8z&" alt="ritikkumar8z" /></p>
+
+## 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rksingh1713/rksingh1713/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
