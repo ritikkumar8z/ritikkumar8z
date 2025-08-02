@@ -10,11 +10,44 @@
 
 <p align="left"> <a href="https://twitter.com/ritikkumar8z" target="blank"><img src="https://img.shields.io/twitter/follow/ritikkumar8z?logo=twitter&style=for-the-badge" alt="ritikkumar8z" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ritikkumar8z.web.app//](https://ritikkumar8z.web.app//)
 
-- 📫 How to reach me **ritikkumar8z.dev@gmail.com**
 
-- 🚀 Looking to build something amazing? Visit my freelance site [nextcoreai.in](https://nextcoreai.in) and let’s bring your ideas to life!
+
+<div align="center" style="background-color:#0d1117; padding: 30px 20px; border-radius: 10px; font-family: 'Fira Code', monospace; color: #c9d1d9; box-shadow: none; border: none;">
+
+  <div style="color:#39ff14; font-size: 28px; font-weight: 800; margin: 0; padding: 0;">
+    ⚡ Let's Build Something Legendary
+  </div>
+
+  <p style="margin-top: 10px; font-size: 14px; color: #8b949e;">
+    Got a crazy idea? A serious project? Or just wanna geek out?<br />
+    I’m available for freelance, full-time collab, or code war! 💻
+  </p>
+
+  <br/>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <a href="https://ritikkumar8z.web.app" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/%20Portfolio-161b22?style=flat-square&logo=GoogleChrome&logoColor=39ff14&color=161b22" alt="Portfolio" />
+    </a>
+    <a href="mailto:ritikkumar8z.dev@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/%20Email-161b22?style=flat-square&logo=gmail&logoColor=39ff14&color=161b22" alt="Email" />
+    </a>
+    <a href="https://wa.me/916200674631" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/%20WhatsApp-161b22?style=flat-square&logo=whatsapp&logoColor=39ff14&color=161b22" alt="WhatsApp" />
+    </a>
+    <a href="https://nextcoreai.in" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/%20NextCoreAi-161b22?style=flat-square&logo=rocket&logoColor=39ff14&color=161b22" alt="NextCoreAi Website" />
+</a>
+
+  </div>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=550&lines=Open+to+Projects%2C+Ideas+%26+Tech+Talks.;Let%E2%80%99s+code+something+next-level.;Your+idea+%3D+My+execution+%F0%9F%94%A5;Frontend+%2B+Backend+%2B+Mobile+Dev+%3D+Me.;Crafting+cool+UIs+%7C+Solving+real+problems." alt="Typing animation" />
+
+</div>
+
 
 
 
@@ -29,7 +62,7 @@
   <a href="https://instagram.com/ritik.kumar8z" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/ritik.kumar.8z" target="_blank">
+  <a href="https://facebook.com/ritikkumar8z" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://github.com/ritikkumar8z" target="_blank">
