@@ -110,10 +110,12 @@
 
 
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar8z&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar8z&theme=radical&row=1&column=8" alt="Trophies" />
 </p>
+
+
 
 
 ## 🔥 Contribution Graph
