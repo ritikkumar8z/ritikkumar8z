@@ -84,37 +84,34 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E) ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white) ![IT Support](https://img.shields.io/badge/IT%20Support-0D1117?style=for-the-badge&logo=windows&logoColor=00ADEF) ![Customer Support](https://img.shields.io/badge/Customer%20Support-0D1117?style=for-the-badge&logo=googledrive&logoColor=4285F4)
 
 
-
 ## 📊 GitHub Stats
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar8z&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  </td>
-  <td>
-    <img src="https://streak-stats.demolab.com?user=ritikkumar8z&theme=tokyonight&hide_border=true" />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar8z&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  </td>
-  <td>
-    <img src="https://github-contributor-stats.vercel.app/api?username=ritikkumar8z&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  </td>
-</tr>
-</table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar8z&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikkumar8z&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar8z&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ritikkumar8z&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 
 
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar8z&theme=radical&row=1&column=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikkumar8z&theme=radical&no-frame=true&row=2&column=4" />
 </p>
+
+
 
 
 
